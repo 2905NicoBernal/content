@@ -56,7 +56,7 @@ It is therefore no wonder that the creators of HTML provided a means by which to
 
 ### How does a table work?
 
-The point of a table is that it is rigid. Information is easily interpreted by making visual associations between row and column headers. Look at the table below for example and find a Jovian gas giant with 62 moons. You can find the answer by associating the relevant row and column headers.
+The point of a table is that it is rigid. Information is easily interpreted by making visual associations between row and column headers. Look at the table below for example and find a Jovian gas giant with 62 moons. <img src="https://mdn.github.io/learning-area/html/tables/assessment-finished/planets-data.html" alt="Planets data"> You can find the answer by associating the relevant row and column headers.
 
 ```html hidden
 <table>
